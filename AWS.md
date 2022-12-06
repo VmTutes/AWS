@@ -69,24 +69,24 @@ Cloud Computing Providers(Vendors):-
 Cloud Service Models:-
 ----------------------
 Infrastructure As A Service(IAAS):-
-		- A New Flat where you not have all amenities except windows and doors
-                - Computers, Network, VM's and Storage, Operating systems, IP Addresse Firewalls,...etc
-		- AWS Login, EC2, VPC, S3...etc 
-		- Amazon's AWS is MASTER in the Iaas
+
+      >>  A New Flat where you not have all amenities except windows and doors
+      >>  Computers, Network, VM's and Storage, Operating systems, IP Addresse Firewalls,...etc
+      >>  AWS Login, EC2, VPC, S3...etc 
+      >>  Amazon's AWS is MASTER in the Iaas
 		
 Platform As A Service(PAAS) (Vendor Restricted):-
-                - It is like fully Furnished Flat(Studio Apartment with all amenities)
-		- Operating systems(UBUNTU,REDHAT,AMAZON-LINUX), Programming Languages(c++), Storage(RDS), Permissions...etc
-		- Microsoft Azure is MASTER in the Paas. 
+      >> It is like fully Furnished Flat(Studio Apartment with all amenities)
+      >> Operating systems(UBUNTU,REDHAT,AMAZON-LINUX), Programming Languages(c++), Storage(RDS), Permissions...etc
+      >> Microsoft Azure is MASTER in the Paas. 
 		
 Software As A Service(SAAS) (Ready Made):-
-		- Salesforce, Slack, DropBox, Office 365, ZOHO,...etc
-		- Development, Deployment, servers, Resorces, Process, Storage, No need to install in PC.
-		- If you need 100 Mail accounts, you can directly contact office 365.
 
- Note:- Backup as a service (Baas)
-        security as a service (Saas)
-        Disaster recovery as a service (DRaaS) 
+      >>  Salesforce, Slack, DropBox, Office 365, ZOHO,...etc
+      >>  Development, Deployment, servers, Resorces, Process, Storage, No need to install in PC.
+      >>  If you need 100 Mail accounts, you can directly contact office 365.
+
+ Note:- Backup as a service (Baas), security as a service (Saas), Disaster recovery as a service (DRaaS) 
  
 Why AWS?
 --------
